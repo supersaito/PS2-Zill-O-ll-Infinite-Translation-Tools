@@ -1,0 +1,1 @@
+for /F %%i in ('dir /b *.tga') do tga2qxp %%i new_34.qxp 1
