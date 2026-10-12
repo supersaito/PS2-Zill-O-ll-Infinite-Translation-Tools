@@ -1,0 +1,34 @@
+This is the Python script to extract and insert blocks in RES.RBB.
+You will need Python 3.7 installed.
+Copy it into a folder with the following structure:
+<DIR>          .
+<DIR>          ..
+8.876 demunge.py
+<DIR>          mungenitos
+<DIR>          mungenitos-new
+1.041.259.302 RES.RBB
+1.041.259.302 RES.RBB-original
+RES.RBB-original is the untouched resource block.
+RES.RBB is the block we will modify.
+The files are extracted into the mungenitos folder.
+The modified files to be inserted are placed in the mungenitos-new folder.
+Usage:
+To view help:
+python.exe demunge.py -h
+To extract all files:
+python.exe demunge.py -x -1
+To extract a file:
+python.exe demunge.py -x 13019
+To insert a file:
+python.exe demunge.py -i 13019
+If more are listed consecutively, all specified ones will be inserted.
+To view information about a file without extracting it:
+python.exe demunge.py -v 13019
+Output:
+Index:                13019
+Start offset:         7799424
+Compressed size:      4461
+Extension:            dat
+Decompressed size:    8192
+Legal mumbo jumbo:
+I take no responsibility, and blah blah blah

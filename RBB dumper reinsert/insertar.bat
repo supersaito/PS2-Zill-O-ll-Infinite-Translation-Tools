@@ -1,0 +1,1 @@
+python.exe demunge.py -i -1 >insertado.txt
