@@ -1,5 +1,5 @@
 # PS2-Zill-O-ll-Infinite-Translation-Tools
-**IN MEMORY OF MC NORDAL (ERNESTO POVEDA)
+**IN MEMORY OF MC NORDAL (ERNESTO POVEDA)**
 Hello, this is a guide made by me (saito) and MC Nordal (Ernesto Poveda) to help anyone to get
 around with the tools of zill o'll infinite tools.
 
